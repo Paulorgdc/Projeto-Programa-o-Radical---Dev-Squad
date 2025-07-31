@@ -1,1 +1,1 @@
-ALUNOS: Paulo Roberto Griggi de Campos, Roberto Emilio Lopes Junior, Valdeir Moraes Junior, William Gomes Magalhães, Mateus Barreto Lisboa, José Bento Abreu da Cruz, Samuel Arthur de Oliveira Marques Ferreira e João Manoel Freitas de Brito
+ALUNOS (Dev Squad): Paulo Roberto Griggi de Campos, Roberto Emilio Lopes Junior, Valdeir Moraes Junior, William Gomes Magalhães, Mateus Barreto Lisboa, José Bento Abreu da Cruz, Samuel Arthur de Oliveira Marques Ferreira e João Manoel Freitas de Brito
